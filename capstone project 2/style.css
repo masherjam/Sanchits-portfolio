@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Mooli&family=Roboto:ital,wght@0,300;1,100&display=swap');
+
+body{
+    margin: 0px;
+}
+
+
+#wrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+#heading{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: antiquewhite;
+    margin: 0px;
+    flex: 1;
+}
+
+#heading p{
+    text-align: center;
+}
+
+#info{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#info p{
+    margin-top: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: block;
+    font-size: 25px;
+}
+
+#info>.profile-pic{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+}
+
+#info img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+#contact-info{
+    display: flex;
+    height: 30vh;
+    justify-content: center ;
+    align-items: center;
+
+}
+
+#contact-info{
+    font-size: 20px;
+}
+
+.contact{
+    margin-right: 30px;
+}
+

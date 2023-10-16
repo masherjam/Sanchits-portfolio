@@ -1,0 +1,82 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../3.4 Birthday Invite Project"
+		},
+		{
+			"path": "../4.0 File Paths"
+		},
+		{
+			"path": "../4.1 Webpages"
+		},
+		{
+			"path": "../resume"
+		},
+		{
+			"path": "../5.1+Adding+CSS"
+		},
+		{
+			"path": "../5.3+CSS+Selectors"
+		},
+		{
+			"path": "../5.4+Color+Vocab+Project"
+		},
+		{
+			"path": "../6.0 CSS Colors"
+		},
+		{
+			"path": "../6.1 Font Properties"
+		},
+		{
+			"path": "../6.3 CSS Box Model"
+		},
+		{
+			"path": "../6.4 Motivation Meme Project"
+		},
+		{
+			"path": "../7.0 CSS Cascade"
+		},
+		{
+			"path": "../7.1 Combining Selectors"
+		},
+		{
+			"path": "../7.2 CSS Positioning"
+		},
+		{
+			"path": "../7.3 CSS Flag Project"
+		},
+		{
+			"path": "../8.0+CSS+Display"
+		},
+		{
+			"path": "../8.1 CSS Float"
+		},
+		{
+			"path": "../8.2 Responsiveness"
+		},
+		{
+			"path": "../8.4 Web Design Agency Project"
+		},
+		{
+			"path": "../9.4 Flexbox Pricing Table Project"
+		},
+		{
+			"path": "../10.3 Mondrian Project"
+		},
+		{
+			"path": "../11.0 Bootstrap Intro"
+		},
+		{
+			"path": "../11.2 Bootstrap Components"
+		},
+		{
+			"path": "../11.3 TinDog Project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "udemy fullstack"
+	}
+}
